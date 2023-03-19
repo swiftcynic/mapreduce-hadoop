@@ -1,0 +1,57 @@
+Argentina	999
+Australia	37967
+Austria	6993
+Bahrain	1000
+Belgium	7993
+Bermuda	999
+Brazil	4995
+Bulgaria	999
+Canada	75940
+Cayman Isls	999
+China	999
+Costa Rica	999
+Country	1000
+Czech Republic	2997
+Denmark	14988
+Dominican Republic	999
+Finland	1999
+France	26975
+Germany	24977
+Greece	999
+Guatemala	999
+Hong Kong	999
+Hungary	2997
+Iceland	999
+India	1999
+Ireland	48955
+Israel	1000
+Italy	14986
+Japan	1998
+Jersey	999
+Kuwait	999
+Latvia	999
+Luxembourg	1000
+Malaysia	999
+Malta	1998
+Mauritius	999
+Moldova	1000
+Monaco	1998
+Netherlands	21981
+New Zealand	5994
+Norway	15986
+Philippines	1998
+Poland	1998
+Romania	999
+Russia	999
+South Africa	4996
+South Korea	999
+Spain	11989
+Sweden	12988
+Switzerland	35967
+Thailand	1998
+The Bahamas	1998
+Turkey	5994
+Ukraine	999
+United Arab Emirates	5995
+United Kingdom	99911
+United States	462597
